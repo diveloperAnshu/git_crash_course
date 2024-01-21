@@ -6,3 +6,4 @@ const classe = "btech";
 //a;dhgweui9r
 /*-dewdededawd
 sadadasd*/
+const hello="hi this is anshuman";
