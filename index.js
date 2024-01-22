@@ -13,3 +13,7 @@ const hello="hi this is anshuman";
 
 //asdsadsadsada
 //sadsadasdas
+
+function newFeature(){
+    console.log("This is a new Feature");
+}
